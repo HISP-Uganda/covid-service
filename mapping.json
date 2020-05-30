@@ -1,0 +1,128 @@
+[
+  { "name": "Full Names", "id": "sB1IHYu2xQT", "rects": "v_people_name" },
+  {
+    "name": "Form ID / Barcode No",
+    "id": "PVXhTjVdB92",
+    "rects": "c_people_rid"
+  },
+  {
+    "name": "Print travel Pass?",
+    "id": "Mnx6lj6roDz",
+    "rects": ""
+  },
+  {
+    "name": "POE Generated ID",
+    "id": "CLzIR1Ye97b",
+    "rects": ""
+  },
+  { "name": "Nationality", "id": "XvETY1aTxuB", "rects": "" },
+  { "name": "Sex", "id": "FZzQbW8AWVd", "rects": "" },
+  { "name": "Date of Birth", "id": "g4LJbkM0R24", "rects": "" },
+  {
+    "name": "Passport Number / NIN",
+    "id": "oUqWGeHjj5C",
+    "rects": ""
+  },
+  {
+    "name": "Date and time of entry",
+    "id": "UJiu0P8GvHt",
+    "rects": ""
+  },
+  {
+    "name": "Truck/Vehicle Reg. number",
+    "id": "h6aZFN4DLcR",
+    "rects": ""
+  },
+  {
+    "name": "Case Phone Contact",
+    "id": "E7u9XdW24SP",
+    "rects": "v_mobile_no"
+  },
+  {
+    "name": "Names of Next of Kin",
+    "id": "fik9qo8iHeo",
+    "rects": ""
+  },
+  {
+    "name": "Phone contact of Next of Kin",
+    "id": "j6sEr8EcULP",
+    "rects": ""
+  },
+  {
+    "name": "Measured temperature",
+    "id": "QUrkIanwcHD",
+    "rects": ""
+  },
+  { "name": "Temperature", "id": "QhDKRe2QDA7", "rects": "i_body_temp" },
+  {
+    "name": "Is the individual  under quarantine?",
+    "id": "oVFYcqtwPY9",
+    "rects": ""
+  },
+  {
+    "name": "COVID_If quarantine, where",
+    "id": "KxosXJrC3bh",
+    "rects": ""
+  },
+  {
+    "name": "Free from symptoms?",
+    "id": "EWWNozu6TVd",
+    "rects": ""
+  },
+  {
+    "name": "Has the specimen been taken?",
+    "id": "NuRldDwq0AJ",
+    "rects": ""
+  },
+  {
+    "name": "Type of Specimen",
+    "id": "SI7jnNQpEQM",
+    "rects": ""
+  },
+  { "name": "Type of Test", "id": "Bh19lOSuiUC", "rects": "" },
+  {
+    "name": "COVID_Screeners (names)",
+    "id": "TU0Jteb9H7F",
+    "rects": ""
+  },
+  {
+    "name": "Need for Isolation",
+    "id": "Ep6evsVocKY",
+    "rects": ""
+  },
+  {
+    "name": "Referred for further investigation",
+    "id": "EZwIFcKvSes",
+    "rects": ""
+  },
+  {
+    "name": "Country of Departure",
+    "id": "cW0UPEANS5t",
+    "rects": ""
+  },
+  {
+    "name": "Country of Destination",
+    "id": "pxcXhmjJeMv",
+    "rects": ""
+  },
+  {
+    "name": "Picture of Traveller",
+    "id": "AsnwhQvSeMy",
+    "rects": ""
+  },
+  {
+    "name": "Physical address while in Uganda (Hotel/village/town/district)",
+    "id": "ooK7aSiAaGq",
+    "rects": ""
+  },
+  {
+    "name": "Planned duration of stay  (in Days) while in Uganda",
+    "id": "eH7YTWgoHgo",
+    "rects": ""
+  },
+  {
+    "name": "Old POE Generated ID",
+    "id": "jXf9YETPNaJ",
+    "rects": ""
+  }
+]
